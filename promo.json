@@ -9,14 +9,3 @@
     "aktif": true
   }
 ]
-[
-  {
-    "judul": "Promo Spesial Juni",
-    "deskripsi": "Diskon 20% untuk semua menu kopi sepanjang hari",
-    "tanggal_mulai": "2026-06-01",
-    "tanggal_selesai": "2026-06-30",
-    "gambar_url": "",
-    "tipe": "promo",
-    "aktif": true
-  }
-]
