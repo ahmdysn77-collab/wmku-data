@@ -7,5 +7,14 @@
     "gambar_url": "",
     "tipe": "promo",
     "aktif": true
+  },
+  {
+    "judul": "Event Ngopi Bareng",
+    "deskripsi": "Ngopi bareng sambil santai. Gratis snack untuk 10 pembeli pertama!",
+    "tanggal_mulai": "2026-06-15",
+    "tanggal_selesai": "2026-06-15",
+    "gambar_url": "",
+    "tipe": "event",
+    "aktif": true
   }
 ]
